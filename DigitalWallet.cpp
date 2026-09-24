@@ -48,7 +48,7 @@ public:
     }
     virtual void cashback(double amount)
     {
-        cout << "No cashback for this user.\n";
+        cout << "No cashback for this user sorry.\n";
     }
     Wallet operator+(double amount)
     {
@@ -66,7 +66,7 @@ public:
         }
         else
         {
-            cout << "Insufficient Balance!!!!\n";
+            cout << "Insufficient Balance!!!\n";
             return *this;
         }
     }
