@@ -6,11 +6,17 @@ A C++ based Digital Wallet Management System supporting regular and premium user
 
 
 - Add money
+  
 - Send money
+  
 - Show balance
+  
 - Cashback
+  
 - Transfer money between users
+  
 - Search users
+  
 - Show all users
 
 
