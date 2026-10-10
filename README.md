@@ -4,9 +4,7 @@ A C++ based Digital Wallet Management System supporting regular and premium user
 
 ## Features
 
-
 - Add money
-
 
 - Send money
   
